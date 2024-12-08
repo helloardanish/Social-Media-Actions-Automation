@@ -1,0 +1,3 @@
+PyAutoGUI~=0.9.54
+PySimpleGUI~=5.0.7
+pynput~=1.7.7
