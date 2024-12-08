@@ -1,3 +1,7 @@
 .venv/
 .idea/
+
+# git rm -r --cached .idea/
+#git merge origin/main --allow-unrelated-histories
+
 __pycache__/
