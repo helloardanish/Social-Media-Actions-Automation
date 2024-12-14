@@ -6,3 +6,9 @@
 # git branch --unset-upstream"
 
 __pycache__/
+
+dist/
+
+# pyinstaller --onefile main.py
+# pip install pyinstaller
+
